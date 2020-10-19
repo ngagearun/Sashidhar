@@ -1,6 +1,7 @@
 
 public class Car {
 	
+	//instance variable
 	String colorname,modelno;
 	int speed,enginecapacity;
 	
